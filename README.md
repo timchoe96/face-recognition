@@ -1,6 +1,6 @@
 # About
 
-This is a full stack project which is a facial recognition application. By addinig a image url with a face, the app with detect the face within the image and cast a square arount the face location. It will track the user's number of entries and display them real time on the screen. 
+This is a full stack facial recognition project that I built through an online course. I wanted to get aquainted with the backend side of developing, and this was an awsome way to do it. By addinig a image url with a face, the app with detect the face within the image and cast a square arount the face location. It will track the user's number of entries and display them real time on the screen. 
 
 # Technologies
 
